@@ -1,0 +1,11 @@
+name = "playjonny-bonus-fr"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=playjonny-bonus.fr"
+HMAC_KEY = "1a61e47c8b22deddafd5a9fbb477d6b46e0687816f34cd73e9f8d20c35b61059"
+COOKIE_NAME = "4z6"
+PLAY_PATH = "play"
+BUTTON_ID = "p475408e36e18ec1f6010811b94f05d27"
+GATE_SALT = "16efb95b3388aeba"
